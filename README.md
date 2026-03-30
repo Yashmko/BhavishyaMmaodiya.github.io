@@ -80,7 +80,7 @@ Designed and tested network topologies using Cisco Packet Tracer to understand r
 ## Education
 
 B.Tech in Cybersecurity
-Punjab Technical University
+CGC University
 
 ---
 
