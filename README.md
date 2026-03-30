@@ -97,6 +97,6 @@ CGC University
 
 ## Contact
 
-Email: bhavishyamamodiya@gmail.com(mailto:bhavishyamamodiya@gmail.com)
+Email: bhavishyamamodiya@gmail.com
 LinkedIn: https://www.linkedin.com/in/bhavishya-mamodiya-6b1697351
 GitHub: https://github.com/Yashmko
